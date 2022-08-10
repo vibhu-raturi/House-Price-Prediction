@@ -1,4 +1,4 @@
-# Project Name
+# House Price Prediction
 > A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.For the same purpose, the company has collected a data set from the sale of houses in Australia. 
 The company is looking at prospective properties to buy to enter the market. We are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
@@ -7,7 +7,6 @@ The company is looking at prospective properties to buy to enter the market. We 
 * [General Info](#general-information)
 * [Technical Stacks](#technical-stacks)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -22,7 +21,7 @@ The company is looking at prospective properties to buy to enter the market. We 
 - We were able to build a Linear Regression Model for House Price Prediction
 - Regularization techniques ar also used for tuning the model
 - We were able to extract some interesting insights from this dataset.
-- Difference between train R-Squared & test R-Squared value is below 5% which implies no Overfitting and the model is working fine both for train and test data.
+- Difference between train R-Squared & test R-Squared value is below 5% which implies no Overfitting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
